@@ -1,2 +1,5 @@
 # c9m
-Collects and sends NodeJS process metrics along with custom data to Cloud9Metrics for monitoring and analytics
+
+Instant NodeJS process monitoring with Cloud9Metrics real-time dashboard visualization and analytics
+
+In rapid development - check back soon!
