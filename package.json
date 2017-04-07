@@ -1,0 +1,23 @@
+{
+  "name": "c9m",
+  "version": "0.0.0",
+  "description": "Instant NodeJS process monitoring with Cloud9Metrics real-time dashboard visualization and analytics",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cloud9Trader/c9m.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cloud9Trader/c9m/issues"
+  },
+  "homepage": "https://github.com/Cloud9Trader/c9m#readme",
+  "dependencies": {
+    "async": "^2.2.0",
+    "aws-iot-device-sdk": "^1.0.14",
+    "request": "^2.81.0"
+  }
+}
