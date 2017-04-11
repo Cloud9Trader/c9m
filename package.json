@@ -1,6 +1,6 @@
 {
   "name": "c9m",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Instant NodeJS process monitoring with Cloud9Metrics real-time dashboard visualization and analytics",
   "main": "index.js",
   "scripts": {
