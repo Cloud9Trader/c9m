@@ -3,8 +3,7 @@
   "version": "0.1.0",
   "description": "Instant NodeJS process monitoring with Cloud9Metrics real-time dashboard visualization and analytics",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Cloud9Trader/c9m.git"
@@ -19,5 +18,8 @@
     "async": "^2.2.0",
     "aws-iot-device-sdk": "^1.0.14",
     "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0"
   }
 }
