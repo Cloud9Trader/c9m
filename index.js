@@ -8,4 +8,4 @@ instance.Device = Device;
 instance.Instrument = Instrument;
 instance.Sensor = Sensor;
 
-module.exports = instance; 
+module.exports = instance;

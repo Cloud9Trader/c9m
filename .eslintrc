@@ -13,6 +13,16 @@
       "error",
       "unix"
     ],
+    "no-console": [
+      "error",
+      {
+        "allow": [
+          "info",
+          "warn",
+          "error"
+        ]
+      }
+    ],
     "quotes": [
       "error",
       "single"
